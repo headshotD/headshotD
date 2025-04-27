@@ -23,3 +23,6 @@
 ### 🚀 [UseTech](https://github.com/headshotD/UseTechTest)
 - Проект по автоматизации тестирования для компании Usetech
 - Технологии: Java, JUnit5, Gradle, Selenide, Selenoid, Allure, Jenkins, Telegram, IntelliJ Idea
+## 📫 Как связаться
+- Email: oleg8494@yandex.ru
+- Telegram: @Olejjka1337
