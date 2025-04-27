@@ -6,21 +6,17 @@
 
 ### 🧪 Тестирование
 - **Manual Testing**: Functional, Regression, Smoke, UI/UX
-- **Automation**: Selenium WebDriver, Playwright, Cypress
-- **API Testing**: Postman, Swagger, SoapUI
-- **Mobile Testing**: Appium, Android Studio, Xcode
-- **Performance**: JMeter, LoadRunner
+- **Automation**: Selenide, Selenoid, JUnit5, Allure,
+- **API Testing**: Postman, Swagger, Insomnia
 
 ### 💻 Технологии
-- **Languages**: SQL, Python, JavaScript/TypeScript
+- **Languages**: Java, SQL
 - **CI/CD**: Jenkins, GitLab CI, GitHub Actions
-- **Bug Tracking**: Jira, Bugzilla, Redmine
-- **Test Management**: TestRail, Zephyr, Allure
-- **Containers**: Docker, Kubernetes
+- **Bug Tracking**: Jira, Bugzilla, Redmine, Sfera.Task
+- **Test Management**: TestRail, Zephyr, Allure, Sfera.Funtional Testing
 
 ### 🗄 Базы данных
-- SQL (MySQL, PostgreSQL)
-- NoSQL (MongoDB)
+- SQL (PostgreSQL)
 
 ## � Мои проекты
 
