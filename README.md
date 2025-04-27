@@ -6,35 +6,20 @@
 
 ### 🧪 Тестирование
 - **Manual Testing**: Functional, Regression, Smoke, UI/UX
-- **Automation**: Selenide, Selenoid, JUnit5, Allure,
-- **API Testing**: Postman, Swagger, Insomnia
+- **Automation**: Gradle, Selenide, JUnit5, Allure
+- **API Testing**: Rest Assured, Postman, Swagger, Insomnia
 
 ### 💻 Технологии
 - **Languages**: Java, SQL
-- **CI/CD**: Jenkins, GitLab CI, GitHub Actions
-- **Bug Tracking**: Jira, Bugzilla, Redmine, Sfera.Task
-- **Test Management**: TestRail, Zephyr, Allure, Sfera.Funtional Testing
+- **CI/CD**: Jenkins, GitLab CI, GitHub Actions, Selenoid
+- **Bug Tracking**: Jira, Bugzilla, Sfera.Task
+- **Test Management**: TestRail, Zephyr, Allure, Sfera.Funсtional Testing
 
 ### 🗄 Базы данных
 - SQL (PostgreSQL)
 
 ## � Мои проекты
 
-### 🚀 [Название проекта 1](ссылка)
-- Описание: Веб-приложение для [цель проекта]
-- Роль: QA Lead/Engineer
-- Технологии: Selenium, Pytest, Allure
-- Достижения: Увеличил покрытие тестами на 40%, сократил время регресса на 35%
-
-### 📱 [Название проекта 2](ссылка)
-- Описание: Мобильное приложение для [цель проекта]
-- Роль: Mobile QA Engineer
-- Технологии: Appium, Java, TestNG
-- Достижения: Автоматизировал 80% smoke-тестов
-
-## 📈 Метрики качества
-```text
-✔ Выявлено критических багов: 150+
-✔ Автоматизировано тест-кейсов: 500+
-✔ Сокращение времени тестирования: 40%
-✔ Улучшение покрытия тестами: 60%
+### 🚀 [UseTech](https://usetech.ru/)
+- Описание: Проект по автоматизации тестирования для компании Usetech
+- Технологии: Java, JUnit5, Gradle, Selenide, Selenoid, Allure, Jenkins, Telegram, IntelliJ Idea
