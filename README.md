@@ -20,6 +20,6 @@
 
 ## � Мои проекты
 
-### 🚀 [UseTech](https://usetech.ru/)
-- Описание: Проект по автоматизации тестирования для компании Usetech
+### 🚀 [UseTech](https://github.com/headshotD/UseTechTest)
+- Проект по автоматизации тестирования для компании Usetech
 - Технологии: Java, JUnit5, Gradle, Selenide, Selenoid, Allure, Jenkins, Telegram, IntelliJ Idea
